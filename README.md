@@ -26,9 +26,11 @@ This is the React frontend application for the Student Management System. It pro
 - npm or yarn
 
 ## Getting Started
+
 - npm insall
 - npm start
 
 ## Others
 
-
+-If you want to full-stack application, then please Colne the Student-Management-System-Backend 
+https://github.com/priyashankapgui/Student-Management-System-Backend.git
