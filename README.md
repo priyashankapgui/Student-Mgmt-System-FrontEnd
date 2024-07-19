@@ -32,5 +32,5 @@ This is the React frontend application for the Student Management System. It pro
 
 ## Others
 
--If you want to full-stack application, then please Colne the Student-Management-System-Backend 
-https://github.com/priyashankapgui/Student-Management-System-Backend.git
+- If you want to full-stack application, then please Colne the Student-Management-System-Backend 
+- https://github.com/priyashankapgui/Student-Management-System-Backend.git
